@@ -7,6 +7,7 @@
       <aside class="sidebar">
         <h2>Menu</h2>
         <ul>
+          
           <li><a href="#">Beranda</a></li>
           <li><a href="#">Tentang Kami</a></li>
           <li><a href="#">Layanan</a></li>
